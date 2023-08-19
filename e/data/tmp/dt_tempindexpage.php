@@ -20,7 +20,6 @@ if(!defined('InEmpireCMS'))
 <script async custom-element="amp-base-carousel" src="/skin/static/js/amp-base-carousel-0.1.js"></script>
 <script async custom-template="amp-mustache" src="/skin/static/js/amp-mustache-0.2.js"></script>
 
-
 <link rel="shortcut icon" href="" />
 
 <title>Touch Screen Monitors, Lcd Touch Screen, Lcd Panel - New Display | ShenZhen New Display Co.,Ltd.</title>
@@ -1248,6 +1247,7 @@ body{padding-top:50px;}
     </div>
   </div>
   </section>
+
 <footer class="web_footer">
   <div class="sm_layout foot_items">
     <div class="foot_item foot_item01">
@@ -1266,7 +1266,6 @@ body{padding-top:50px;}
   </div>
   <div class="web_bottom">Copyright © 2021 ShenZhen New Display Co.,Ltd  <a target="_blank" href="https://www.ndlcd.com/sitemap.xml">Sitemap</a></div>
 </footer>
-
 <script type="text/javascript" src="/skin/static/js/21220073.js"></script><button id="scrollToTopButton" on="tap:top.scrollTo(duration=200)" class="scrollToTop">Top</button>
 </body>
 </html>
