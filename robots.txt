@@ -10,3 +10,4 @@ Disallow: /e/config/
 Disallow: /e/data/
 Disallow: /e/enews/
 Disallow: /e/update/
+Disallow: /e/test/
